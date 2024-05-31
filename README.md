@@ -18,7 +18,7 @@ It is very easily to add textnodes and you can move the textnode anywhere on the
 ```
 npx create-react-app app-name.
 cd app-name
-npm install reac flow
+npm install reactflow
 ```
 ## To run the application.
 
